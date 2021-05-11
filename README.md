@@ -2,7 +2,7 @@
 
 This repository is associated with Cloud DevOps ND - Course 04 - Microservices at Scale using AWS & Kubernetes. In here, you'll find:
 1. Supporting material used in the video demonstration in the course 
-1. Starting code for a project, in which you can containerize and deploy a machine learning srevice using Kubernetes.
+2. Starting code for a project, in which you can containerize and deploy a machine learning service using Kubernetes.
 
 ---
 
@@ -11,7 +11,7 @@ This repository is associated with Cloud DevOps ND - Course 04 - Microservices a
 [Download and install the python](https://www.python.org/downloads/). 
 
 #### A.2. Docker Desktop
-You would require you to install Docker Desktop to create containers for individual microservices. Refer the following links for instructions 
+You would be required to install Docker Desktop to create containers for individual microservices. Refer the following links for instructions 
 * [macOS](https://docs.docker.com/docker-for-mac/install/), 
 * [Windows 10 64-bit: Pro, Enterprise, or Education](https://docs.docker.com/docker-for-windows/install/), 
 * [Windows  10 64-bit Home](https://docs.docker.com/toolbox/toolbox_install_windows/). 
@@ -118,5 +118,5 @@ scoop install hadolint
 Your code has been rated at 10.00/10
 ```
 
-That's about it! When working with kubernetes, you may need to install some other libraries, but these instructions will set you up with an environment that can build and deploy Docker containers.
+That's it! When working with kubernetes, you may need to install some other libraries, but these instructions will set you up with an environment that can build and deploy Docker containers.
 
